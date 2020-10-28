@@ -19,5 +19,25 @@ What are major challenges in container orchestration?
 How do docker swarm / apache mesos / amazon ecs / kubernetes help us with
 these challenges? 
 
+What is Kubernetes? 
+Kubernetes is container orchestration / portable cloud platform which is becoming
+de facto standard for running mircoservice  infrastructure in cloud.
+To create a highly available distributed system.
+
+Kubernetes can speed up the development process by 
+1. easy and automated deployments,
+2. rolling updates
+3. managing our apps and services with almost zero downtime. 
+
+Evolution of kubernetes:
+1. 2003-2004: BORG : BORG was a large scale cluster management system,
+which ran 100Ks of jobs from 1Ks of services in many clusters which included
+10Ks of machines.
+
+2. 2013: OMEGA: A flexible, scalable schedular for  large scale cluster.
+3. 2014: Kubernets: OMEGA released to the world. 
+
+
+
 
 
